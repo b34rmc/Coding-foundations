@@ -1,0 +1,11 @@
+python doc research
+binary inverse
+hex converter
+customer database front end
+student registration application
+convert database result set to dictionary
+convert dictionary to sql
+creating a class
+polymorphism
+capstone project
+final exam

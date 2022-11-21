@@ -1,0 +1,6 @@
+line 34 missing ' at end of f string.
+line 66 no file for address_book.csv.
+line 78 user_input = input() missing .upper() to handle a wider variety of input that means the same thing.
+line 90 user input Q does not quit program. 
+on line 90 it was in as q instead of Q so when the .upper() did its job it wasnt a lower case anymore so it didn't work.
+line 28 no space between LastName and changed it to Last Name.
